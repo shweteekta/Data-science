@@ -1,3 +1,5 @@
+# Takes Reviews from json data and analyze it into no of positive,negative and neutral ones
+
 import json
 from textblob import TextBlob
 import os
