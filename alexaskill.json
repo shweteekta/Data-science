@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "nearby-place-1579276221993",
+  "private_key_id": "71a6cb88640b2dd9b23bdc10dd735c14046ee9f8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCQhxB7bpmAMqCF\nMpEqpv2pKXiw1EaRz41vFrqgOWNNjUEXPz+WMnLqCWvbaiA34pesCekgnPrOQaRl\nN5Fof+KcUXvBMP0Z5UMkYoNXxE4u9B8qE/X91VUTybrdrh+bZm8kX54tLPeIYrSK\nvfhUqcMGQ9lKVemcQtg1rbfuj2cmNO/HWC4zY70cDQioCo9Hp3dqzoLvXpUotgin\n/7y0y6vLcz099TPr4CqZeTS0336+4AjJEe020rzK7IbNxco5dqt9HmaTkMjTEXKp\nzeahtpY+wxqoFs+tyvdjpndgGtiid4O+wfxEq1ucy048C/+ZeTX3HpEwZMTXo6Az\nSL3rH8Q7AgMBAAECggEADwbD626/LemARVOnF9ip3z3NFbwppCerVvqgJ7V1F3nm\nuRczMhddBEE7ggy20dNQyAB1yRVugXr+BSSxt7wyyuQxP4+rg6w8VAWcDfLT2s+N\n3URFsKuj/1KGMl3UB8ZZgDN4JiPv49xjVK4rVLNxGpnQ9zNsfk8i3J3gVZYk+Cn5\nJqK5JQMocLju9uY3yEFEEuj1cspsBmpfq6ymnLA0mY+UTJCx3Y8mOKdyWE3tsYfp\nXz5g8eUZpMg6ubF+zXcduZv6u5gzd9GgAdRM10aqUIepFUKE2ZYzYE1XgAJCPCRn\nAXSrRVULH671Vnbal01Hvz2yjzItb5uuLD+Vj5TvFQKBgQDEzW3OCEclRgGI0FL+\nvMUfP5to0dNAe8rKKP5bbNMD5inTHz41UzbieZHDzoy0i5lz6TbcwaelT6SxmaIu\nVZ6ZTZUAAPtsk3BPcHKYIqEHxcNUAjSjPnEXIQ8qjbzxu5lMC8E5XNBOKhPRAJVY\n39KQM707oTcZtkgYFFXDDFfXlwKBgQC8AENwVwhs/CvcBa8ivk3T8EZuYH//Y9XY\nK7MAz+PRgFpSAB66yMnmuuuhUzfFN6ri4LRD+bwOea0UQZ/6+5XggKmuBdvfLnMt\nLPwAmN0ab0gjlpNtfAqygvKUP8Z4fEgBMIhLjmgwMUJmR49u67MrUdmhXkiqDhkl\necKdbQRs/QKBgDDNsLkzHFGF9sNyxeId9dQ19dgckIKhMDzJxanuZrXE0gJk8QxQ\nQoAPHbKs+f+bzsYLw2sjKuu3wGO6cZmD6fyiXJzPoYnfVi6c+A36KGzBAhtHIL6K\nsYjGzfgDhiN8HhvZnmUXOyDnFlryBhcwCgtwiTDMXdmmdmJiSJJB8VapAoGAIr0x\nuPp8Fhdqy1dJi3P60aTeftraDAkYpL8+bnH7uOSsy+Y1x3H+zOHRVJgaABlPPGkl\nJkJpW4tkTg/qTehbQ4bC0+NFQ7JDmh9r2XhlstLJU7opN9vp5h6IUJiQRgdBDuc2\n6C9CVVVk3Z1vhaGME/8l5cmUR8gfIWukaI6SeMkCgYEAjzuPpo776D7xNG9lAMim\nlK/UQHqWEZfWg3lcjsP+OHqFcqJrebyyWtZqq0aVe7PWpNqZ/zHviyMVmuGTIHMq\nfj7nm2Vtc91zHcKRZg2CNcbyJurgOTQwgg1VGxR5HpaNsHOYxgSVGfyR7+tUDb+z\nicMGW8uCtaO2CY3sLky59Qg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "alexa-skill@nearby-place-1579276221993.iam.gserviceaccount.com",
+  "client_id": "115957183642888340174",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/alexa-skill%40nearby-place-1579276221993.iam.gserviceaccount.com"
+}
